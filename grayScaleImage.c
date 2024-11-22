@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "config/grayScaleImage.h"
 // Parameters:
 //   w: width of the image
 //   h: height of the image
